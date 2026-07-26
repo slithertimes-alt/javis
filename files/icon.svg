@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#040608"/>
-  <circle cx="256" cy="256" r="220" fill="none" stroke="#2c6b78" stroke-width="4" stroke-dasharray="6 18"/>
-  <circle cx="256" cy="256" r="180" fill="none" stroke="#5fd8e8" stroke-width="6" stroke-dasharray="30 14" opacity="0.6"/>
-  <circle cx="256" cy="256" r="140" fill="none" stroke="#5fd8e8" stroke-width="3" stroke-dasharray="2 10"/>
-  <circle cx="256" cy="256" r="90" fill="url(#coreGradient)"/>
-  <defs>
-    <radialGradient id="coreGradient" cx="0.4" cy="0.35" r="0.7">
-      <stop offset="0%" stop-color="#bff3fa"/>
-      <stop offset="45%" stop-color="#5fd8e8"/>
-      <stop offset="100%" stop-color="#0d3a41"/>
-    </radialGradient>
-  </defs>
-</svg>
+
